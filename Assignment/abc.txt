@@ -1,0 +1,11 @@
+This is before the start and should be ignored.
+So should this
+and this
+
+
+*** START OF SYNTHETIC TEST CASE ***
+a ba bac
+*** END OF SYNTHETIC TEST CASE ***
+
+This is after the end and should be ignored too.
+Have a nice day.

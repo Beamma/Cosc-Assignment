@@ -1,0 +1,16 @@
+This is before the start and should be ignored.
+So should this
+and this
+
+
+*** START OF SYNTHETIC TEST CASE ***
+Phew that's better!
+*** NOT THE END OF SYNTHETIC TEST CASE ***
+Don't forget meeee....
+*** END SYNTHETIC TEST CASE HERE ***
+Why can't you forget me?
+*** END OF SYNTHETIC TEST CASE HERE ***
+Note that the end tag is slightly different to the begin tag.
+*** NOT THE START OF A SYNTHETIC TEST CASE ***
+This is after the end and should be ignored too.
+Have a nice day.

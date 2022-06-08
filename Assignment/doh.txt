@@ -1,0 +1,13 @@
+This is before the start and should be ignored.
+So should this
+and this
+
+
+*** NOT THE START OF A SYNTHETIC TEST CASE ***
+d do doh why didn't this get ignored
+*** START OF SYNTHETIC TEST CASE ***
+Phew that's better!
+*** END OF SYNTHETIC TEST CASE ***
+
+This is after the end and should be ignored too.
+Have a nice day.

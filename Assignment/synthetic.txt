@@ -1,0 +1,17 @@
+This is before the start and should be ignored.
+So should this
+
+and this
+and yes, this
+*** START OF SYNTHETIC TEST CASE ***
+Toby's code was rather "interesting", it had the following issues: short,
+meaningless identifiers such as n1 and n; deep, complicated nesting;   
+a doc-string drought; very long, rambling and unfocused functions; not 
+enough spacing between functions; inconsistent spacing before and 
+after operators, just like   this      here. Boy was he going to get a low
+style mark.... Let's hope he asks his friend Bob to help him bring his code
+up to an acceptable level.
+*** END OF SYNTHETIC TEST CASE ***
+This is after the end and should be ignored too.
+
+Have a nice day.
